@@ -1,1 +1,1 @@
-MONGODB_HOST: mongodb.akdevops.fun
+MONGODB_HOST: "mongodb-{{ env }}.akdevops.fun"
